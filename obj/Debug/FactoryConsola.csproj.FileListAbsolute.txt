@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\bin\Debug\FactoryConsola.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\bin\Debug\FactoryConsola.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\bin\Debug\FactoryConsola.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\bin\Debug\FactoryLibrary.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\bin\Debug\FactoryLibrary.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\obj\Debug\FactoryConsola.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\obj\Debug\FactoryConsola.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\obj\Debug\FactoryC.CE3F360A.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\obj\Debug\FactoryConsola.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\obj\Debug\FactoryConsola.pdb

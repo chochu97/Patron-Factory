@@ -1,0 +1,6 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\FactoryLibrary\bin\Debug\FactoryLibrary.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\FactoryLibrary\bin\Debug\FactoryLibrary.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\FactoryLibrary\obj\Debug\FactoryLibrary.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\FactoryLibrary\obj\Debug\FactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\FactoryLibrary\obj\Debug\FactoryLibrary.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\FactoryPatron\FactoryConsola\FactoryLibrary\obj\Debug\FactoryLibrary.pdb
