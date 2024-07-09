@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\factorylibrary\\fideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|solutionrelative:factorylibrary\\fideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\factorylibrary\\fideosbolo\u00F1esa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|solutionrelative:factorylibrary\\fideosbolo\u00F1esa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\factorylibrary\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|solutionrelative:factorylibrary\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\factorylibrary\\restauranteargentino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|solutionrelative:factorylibrary\\restauranteargentino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C5813-CB0F-46BC-870E-39547F89AFF7}|FactoryConsola.csproj|C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C5813-CB0F-46BC-870E-39547F89AFF7}|FactoryConsola.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|c:\\users\\nicok\\source\\repos\\programacion\\console\\patrones\\factorypatron\\factoryconsola\\factorylibrary\\restauranteusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|solutionrelative:factorylibrary\\restauranteusa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\factorylibrary\\fideoscarbonara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA904B0E-6B14-4B18-8B16-5D51856A84DE}|FactoryLibrary\\FactoryLibrary.csproj|solutionrelative:factorylibrary\\fideoscarbonara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestauranteUSA.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\RestauranteUSA.cs",
+              "RelativeDocumentMoniker": "FactoryLibrary\\RestauranteUSA.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\RestauranteUSA.cs",
+              "RelativeToolTip": "FactoryLibrary\\RestauranteUSA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:21.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestauranteArgentino.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\RestauranteArgentino.cs",
+              "RelativeDocumentMoniker": "FactoryLibrary\\RestauranteArgentino.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\RestauranteArgentino.cs",
+              "RelativeToolTip": "FactoryLibrary\\RestauranteArgentino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:18.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\Restaurante.cs",
+              "RelativeDocumentMoniker": "FactoryLibrary\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\Restaurante.cs",
+              "RelativeToolTip": "FactoryLibrary\\Restaurante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FideosCarbonara.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\FideosCarbonara.cs",
+              "RelativeDocumentMoniker": "FactoryLibrary\\FideosCarbonara.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\FideosCarbonara.cs",
+              "RelativeToolTip": "FactoryLibrary\\FideosCarbonara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:17.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FideosBolo\u00F1esa.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\FideosBolo\u00F1esa.cs",
+              "RelativeDocumentMoniker": "FactoryLibrary\\FideosBolo\u00F1esa.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\FideosBolo\u00F1esa.cs",
+              "RelativeToolTip": "FactoryLibrary\\FideosBolo\u00F1esa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:16.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fideos.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\Fideos.cs",
+              "RelativeDocumentMoniker": "FactoryLibrary\\Fideos.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\FactoryLibrary\\Fideos.cs",
+              "RelativeToolTip": "FactoryLibrary\\Fideos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:15.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nicok\\source\\repos\\Programacion\\Console\\Patrones\\FactoryPatron\\FactoryConsola\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:47:08.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
